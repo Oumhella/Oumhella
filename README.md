@@ -8,7 +8,7 @@
   <a href="mailto:aoumhella98@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" alt="Email Badge" />
   </a>
-  <a href="www.linkedin.com/in/abdellatif-oumhella-369480222" target="_blank">
+  <a href="https://www.linkedin.com/in/abdellatif-oumhella-369480222/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn Badge" />
   </a>
 </p>
