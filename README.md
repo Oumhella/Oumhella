@@ -33,3 +33,8 @@ Frontend: React,Bootstrap, HTML, CSS, TailwindCSS
 Backend: Spring boot, PHP (Laravel), Node.js, Express
 DevOps: Docker, GitHub Actions, Linux
 Tools: VSCode, Postman, Git
+```
+
+## 📊 My Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Oumhella&layout=compact)
+
