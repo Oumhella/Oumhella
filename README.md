@@ -18,7 +18,7 @@
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently exploring **Web Development, DevOps, and AI tools**
-- 🌱 I’m learning **MERN, MEAN stacks, DevOps tools and Cloud Technologies**
+- 🌱 I’m learning **the MERN and MEAN stacks, DevOps tools and Cloud Technologies**
 - 💡 I love solving real-world problems through code
 - 📫 You can reach me at **aoumhella98@gmail.com**
 - 🧠 Portfolio: [oumhellaabdellatif.vercel.app](https://oumhellaabdellatif.vercel.app/)
