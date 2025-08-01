@@ -36,5 +36,5 @@ Tools: VSCode, Postman, Git
 ```
 
 ## 📊 My Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Oumhella&layout=compact)
+![Top Languages]([https://github-readme-stats.vercel.app/api/top-langs/?username=Oumhella&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=Oumhella&layout=compact&theme=radical))
 
