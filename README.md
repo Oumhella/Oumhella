@@ -5,7 +5,7 @@
   <a href="https://oumhellaabdellatif.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=flat-square&logo=vercel" alt="Portfolio Badge" />
   </a>
-  <a href="mailto:aoumhella98@gmail.com">
+  <a href="mailto:oumhella.abdellatif03@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" alt="Email Badge" />
   </a>
   <a href="https://www.linkedin.com/in/abdellatif-oumhella-369480222/" target="_blank">
@@ -35,7 +35,7 @@
 - 🔭 I’m currently exploring **Web Development, DevOps, and AI tools**
 - 🌱 I’m learning **the MERN and MEAN stacks, DevOps tools and Cloud Technologies**
 - 💡 I love solving real-world problems through code
-- 📫 You can reach me at **aoumhella98@gmail.com**
+- 📫 You can reach me at **oumhella.abdellatif03@gmail.com**
 - 🧠 Portfolio: [oumhellaabdellatif.vercel.app](https://oumhellaabdellatif.vercel.app/)
 
 ---
