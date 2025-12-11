@@ -39,11 +39,12 @@
 
 ---
 
-## 📊 **My Top Languages**
+## 📊 My Top Languages
 
 <p align="center">
   <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oumhella&layout=compact&theme=transparent&langs_count=8" 
-       alt="Top Languages"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Oumhella&layout=compact&theme=transparent"
+    alt="Top Languages"
   />
 </p>
+
