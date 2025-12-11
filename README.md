@@ -41,5 +41,5 @@
 ---
 
 ## 📊 My Top Languages
-![Top Langs](<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oumhella"/>)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oumhella"/>
 
