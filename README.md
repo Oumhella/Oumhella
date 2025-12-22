@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm <span style="color:#4A90E2;">Abdellatif Oumhella</span></h1>
+<h1 align="center">Hi there, I'm <span style="color:#4A90E2;">Abdellatif Oumhella</span></h1>
 <h3 align="center">A Computer Engineering Student & Full-Stack Developer</h3>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ---
 
-## 🧰 **Tech Stack**
+## 🧰 Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
@@ -29,7 +29,7 @@
 
 ---
 
-## 👨‍💻 **About Me**
+## 👨‍💻 About Me
 
 - 🔭 Currently exploring **Web Development, DevOps, and AI tools**
 - 🌱 Learning **MERN, MEAN, Cloud technologies & modern DevOps**
@@ -39,10 +39,23 @@
 
 ---
 
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Oumhella&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4A90E2&icon_color=4A90E2" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Oumhella&theme=tokyonight&hide_border=true&background=0D1117&ring=4A90E2&fire=4A90E2&currStreakLabel=4A90E2" alt="GitHub Streak" />
+</div>
+
+---
+
 ## 📊 My Top Languages
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oumhella&layout=compact&theme=transparent"
-    alt="Top Languages"
-  />
-</p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oumhella&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4A90E2" alt="Top Languages" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=0" width="100%"/>
+</div>
