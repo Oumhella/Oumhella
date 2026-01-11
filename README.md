@@ -79,7 +79,7 @@
 ## 📊 My Top Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oumhella&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4A90E2" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Oumhella&layout=compact&theme=dark" alt="Top Languages" />
 </div>
 
 ---
