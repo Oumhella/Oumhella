@@ -6,7 +6,7 @@
 <h3 align="center"> Computer Engineering Student & Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+💻;Always+Learning+New+Things+🌱;Building+Amazing+Projects+🚀;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+💻;Always+Learning+New+Things+;Building+Amazing+Projects+;" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -60,8 +60,7 @@
 ## 👨‍💻 About Me
 
 - 🔭 Currently exploring **Web Development, DevOps, and AI tools**
-- 🌱 Learning **MERN, MEAN, Cloud technologies & modern DevOps**
-- 💡 Passionate about solving real-world problems through code
+- Learning **ML, DL, Cloud technologies & modern DevOps**
 - 📫 Email: **oumhella.abdellatif03@gmail.com**
 - 🌐 Portfolio → **[oumhellaabdellatif.vercel.app](https://oumhellaabdellatif.vercel.app/)**
 
