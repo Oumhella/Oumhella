@@ -66,10 +66,20 @@
 
 ---
 
+## 📊 GitHub Activity
+
+<div align="center">
+
+[![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Oumhella&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Oumhella)
+
+</div>
+
+---
+
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Oumhella&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4A90E2&icon_color=4A90E2" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Oumhella&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Oumhella&theme=tokyonight&hide_border=true&background=0D1117&ring=4A90E2&fire=4A90E2&currStreakLabel=4A90E2" alt="GitHub Streak" />
 </div>
 
@@ -78,7 +88,7 @@
 ## 📊 My Top Languages
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Oumhella&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Oumhella&theme=tokyonight" alt="Top Languages" />
 </div>
 
 ---
