@@ -59,7 +59,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently exploring **Web Development, DevOps, and AI tools**
+- Currently exploring **Web Development, DevOps, and AI tools**
 - Learning **ML, DL, Cloud technologies & modern DevOps**
 -  Email: **oumhella.abdellatif03@gmail.com**
 - 🌐 Portfolio → **[oumhellaabdellatif.vercel.app](https://oumhellaabdellatif.vercel.app/)**
